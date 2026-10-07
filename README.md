@@ -81,7 +81,7 @@ FruitsugarAi/
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | 99.68% |
+| Accuracy | 96.68% |
 | Model | MobileNetV2 (Transfer Learning) |
 | Images | 14,700+ |
 | Classes | High Sugar, Medium Sugar, Low Sugar |

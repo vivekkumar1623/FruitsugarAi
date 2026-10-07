@@ -6,7 +6,7 @@ Non-destructive fruit sugar content estimation using deep learning and computer 
 
 FruitSugar AI uses **MobileNetV2 transfer learning** to estimate sugar content levels (High / Medium / Low) in fruits by analyzing their visual appearance — color, texture, and ripeness indicators.
 
-- **Accuracy:** 99.68% on 14,700+ images
+- **Accuracy:** 96.68% on 14,700+ images
 - **Fruits Supported:** Apple, Banana, Orange, Pomegranate
 - **Deployment:** Real-time Streamlit web app with file upload and live camera support
 
